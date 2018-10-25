@@ -19,12 +19,12 @@ public class CreatingVariables {
         lastName = "Mitchell";
         title = "Mr.";
 
-        System.out.println("The variable x contains" + x);
-        System.out.println("The value" + y + " is stores in the variable y.");
-        System.out.println("The experiment took" + seconds + " seconds.");
-        System.out.println("A favourite irrational number is Euler's number:" + e);
-        System.out.println("Hopefully you have more than" + checking + "!");
-        System.out.println()
+        System.out.println("The variable x contains " + x);
+        System.out.println("The value " + y + " is stores in the variable y.");
+        System.out.println("The experiment took " + seconds + " seconds.");
+        System.out.println("A favourite irrational number is Euler's number: " + e);
+        System.out.println("Hopefully you have more than " + checking + "!");
+        System.out.println("My name's " + title + " " + firstName + lastName);
 
 
 
