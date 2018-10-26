@@ -1,8 +1,7 @@
 package se.terhol;
 
 public class PrintingChoices {
-
-    public static void main (String[] args ) {
+    public static void main(String[] args) {
 
         System.out.println("Alpha");
         System.out.println("Bravo");
@@ -21,11 +20,5 @@ public class PrintingChoices {
 
         System.out.println();
         System.out.println("This" + " " + "is" + " " + "a" + " " + "test.");
-
-
-
-
-;}
-
-
+    }
 }
